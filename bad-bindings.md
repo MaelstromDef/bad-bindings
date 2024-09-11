@@ -29,20 +29,21 @@ Offering high mobility and various devices that allow difficult terrain traversa
 ### Bindings ###
 
 - Movement:             ABXY (Potential redo to Right thumbstick if actually just terrible)
-- Jump:                 Right Trigger
-- Grappling Hook:       Left Trigger
+- Pole Vault:           Left Trigger
+- Grappling Hook:       Right Trigger
 
 ## Fighter ## 
 
 Offering high combat capabilities, the fighter makes light work of the enemies scattered across the map.
 
-The Fighter is a gruff dwarven woman who was a travelling mercenary before becoming merged with the Explorer and the Worker. She moves much slower than the Explorer (much to her chagrin), but holds her own in a fight thanks to her trusty spear, shield, and gun. 
+The Fighter is a gruff dwarven woman who was a travelling mercenary before becoming merged with the Explorer and the Worker. She moves much slower than the Explorer (much to her chagrin), but holds her own in a fight thanks to her trusty spear, shield, and gun.
 
-### Weapons ###
+### Actions ###
 
-**Shield**: Requiring no maintenance, the shield is a defensive tool the Fighter will use automatically when moving away from an opponent.
-**Spear**: Requiring no maintenance, the spear is a melee weapon that the Fighter will thrust out at anyone foolish enough to get to close. When wielded with her shield, it becomes very difficult to fight back.
-**Gun**: Requiring created bullets to maintain, the gun is a powerful ranged weapon that will kill most enemies in just a single shot.
+- **Shield**: Requiring no maintenance, the shield is a defensive tool the Fighter will use automatically when moving away from an opponent. Lasting for a short time after movement, any attempt to attack the Fighter from the direction opposite of which she moved will be completely stopped.
+- **Spear**: Requiring no maintenance, the spear is a melee weapon that the Fighter will thrust out at anyone foolish enough to get to close. When wielded with her shield, it becomes very difficult to fight back. The spear can be thrust out in any direction the Fighter is not moving in, and extends one body-length out from her body. It can only hit one enemy at a time.
+- **Gun**: Requiring created bullets to maintain, the gun is a powerful ranged weapon that will kill most enemies in just a single shot. Built like a hand cannon, even the Fighter needs two hands to wield this unruly weapon (no shield or movement during use). However, she can use it in any direction once she stops moving and it will fire out in a line until it reaches a target (who will usually die).
+- **Dodge**: 
 
 ### Bindings ###
 
